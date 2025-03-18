@@ -1,0 +1,58 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl m_ElemBuilding
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.545170 0.511190 0.885706
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd prop_Brick.tga.png
+
+newmtl prop_Brick.tga.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.648104 0.450394 0.615586
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd prop_Brick.tga.png
+
+newmtl prop_ElemBuilding.tga.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.653787 0.698747 0.701404
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd prop_Brick.tga.png
+
+newmtl prop_Roof.tga.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.607678 0.754714 0.980937
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd prop_Brick.tga.png
+
+newmtl prop_Sign.tga.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.983348 0.672066 0.680271
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd prop_Brick.tga.png
+map_d prop_Sign.tga.png
